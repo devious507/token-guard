@@ -1,5 +1,5 @@
 {
-    "name": "xdeviousx/token-guard",
+    "name": "devious507/token-guard",
     "description": "Simple SHA-256 bearer token guard middleware for PHP",
     "type": "library",
     "license": "MIT",

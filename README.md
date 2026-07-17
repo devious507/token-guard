@@ -9,7 +9,7 @@ Simple SHA-256 bearer token guard middleware for PHP.
 ## Installation
 
 ```bash
-composer require xdeviousx/token-guard
+composer require devious507/token-guard
 ```
 
 ## Usage
