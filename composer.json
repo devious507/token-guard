@@ -1,0 +1,22 @@
+{
+    "name": "xdeviousx/token-guard",
+    "description": "Simple SHA-256 bearer token guard middleware for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Oster",
+            "email": "paulmoster@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\Lib\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
